@@ -1,9 +1,9 @@
 #include "area.h"
 
-float cubeArea(float a) {
+int cubeArea(int a) {
     return 6*a*a;
 }
 
-float squareArea(float a) {
+int squareArea(int a) {
     return a*a;
 }

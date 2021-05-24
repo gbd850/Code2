@@ -1,2 +1,2 @@
-float cubeArea(float a);
-float squareArea(float a);
+int cubeArea(int a);
+int squareArea(int a);

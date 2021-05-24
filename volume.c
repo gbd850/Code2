@@ -1,5 +1,5 @@
 #include "volume.h"
 
-float cubeVolume(float a) {
+int cubeVolume(int a) {
     return a*a*a;
 }

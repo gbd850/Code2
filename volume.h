@@ -1,1 +1,1 @@
-float cubeVolume(float a);
+int cubeVolume(int a);
